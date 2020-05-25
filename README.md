@@ -458,6 +458,7 @@ Slack Team: https://openosint.slack.com
 [Pipl](https://pipl.com/)<br>
 [WhitePages Plus (pipl)](https://whitepages.plus)<br>
 [Recruitem](http://recruitin.net/)<br>
+[Talent Search](http://talentsear.ch/)<br>
 [Reunion](http://reunion.com/)<br>
 [Rootsweb](http://home.rootsweb.ancestry.com/)<br>
 [SearchBug](http://www.searchbug.com/)<br>
